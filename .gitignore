@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment variables / Secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Build and IDE files
+dist/
+**/dist/
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.DS_Store
+Thumbs.db
+
+# Databases & local upload folders
+backend/chroma_db/
+backend/uploads/
+**/chroma_db/
+**/uploads/
+
+# Scratch & Temporary files
+scratch/
+temp/
+tmp/
+*.log

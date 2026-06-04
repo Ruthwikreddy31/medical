@@ -1,0 +1,38 @@
+[
+  {
+    "id": "doc-emergency-warning-signs",
+    "title": "Emergency warning signs",
+    "tags": ["chest pain", "breathing", "stroke", "bleeding", "emergency"],
+    "content": "Chest pain, difficulty breathing, stroke-like symptoms, severe bleeding, fainting, seizures, blue lips, or sudden confusion should be treated as emergency warning signs requiring immediate medical care."
+  },
+  {
+    "id": "doc-fever-guidance",
+    "title": "Fever and infection guidance",
+    "tags": ["fever", "infection", "cough", "urgent"],
+    "content": "High fever, persistent fever, fever with stiff neck, dehydration, confusion, chest pain, or breathing difficulty needs prompt clinical assessment. Mild fever can often be monitored with hydration and rest."
+  },
+  {
+    "id": "doc-respiratory-symptoms",
+    "title": "Respiratory symptom reference",
+    "tags": ["cough", "shortness of breath", "asthma", "wheezing"],
+    "content": "Cough with shortness of breath, wheezing, chest pain, blue lips, or worsening symptoms may indicate higher respiratory risk and should be evaluated by a healthcare professional."
+  },
+  {
+    "id": "doc-gastrointestinal-symptoms",
+    "title": "Vomiting and dehydration reference",
+    "tags": ["vomiting", "diarrhea", "dehydration", "urgent"],
+    "content": "Persistent vomiting, inability to keep fluids down, blood in vomit or stool, severe abdominal pain, or signs of dehydration require urgent medical assessment."
+  },
+  {
+    "id": "doc-chronic-condition-risk",
+    "title": "Medical history risk factors",
+    "tags": ["diabetes", "heart disease", "pregnancy", "asthma", "copd"],
+    "content": "People with diabetes, heart disease, pregnancy, asthma, COPD, immune suppression, or other chronic conditions may need earlier clinical evaluation when symptoms are moderate or worsening."
+  },
+  {
+    "id": "doc-low-risk-supportive-care",
+    "title": "Supportive home care",
+    "tags": ["cold", "minor headache", "home care", "monitoring"],
+    "content": "Mild cold symptoms, minor headache, or low-severity symptoms without warning signs can often be managed with rest, hydration, and monitoring. Professional care is advised if symptoms persist or worsen."
+  }
+]
